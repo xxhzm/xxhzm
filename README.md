@@ -7,6 +7,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxhzm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
