@@ -1,7 +1,7 @@
 ## Hey, Look here! 👋
 Hi, I'm xxhzm, from ShangDong, China.
 
-+ ⚒️ HTML/CSS/JavaScript/Vue/Typescript/PHP
++ ⚒️ Nuxt/Vue/Go/PHP
 + ✏️ VS Code
 
 
